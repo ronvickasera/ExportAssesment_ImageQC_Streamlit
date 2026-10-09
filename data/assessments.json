@@ -1,0 +1,1325 @@
+{
+  "record_count": 188, 
+  "feature_class": "D:\\shashi_deloitte\\BHARAT NAGAR\\BHARAT NAGAR.gdb\\Buildings\\Assesments", 
+  "floor_field": "Floors", 
+  "records": [
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775894591933_0be78b53-5b9d-4243-8dcc-906518c7fab0.jpg", 
+      "BUILDING_ID": "B75930000213188", 
+      "PTIN": 1071325218, 
+      "OBJECTID": 189, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775902533156_6ff7e99c-776e-40f8-9703-454e0cc4d0da.jpg", 
+      "BUILDING_ID": "B46670000213152", 
+      "PTIN": 0, 
+      "OBJECTID": 190, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775894647197_f52059b1-b663-4341-b025-b639e8474a28.jpg", 
+      "BUILDING_ID": "B68500000213194", 
+      "PTIN": 0, 
+      "OBJECTID": 191, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776073851579_f436abe7-cb85-4375-ae04-ea1005ac1bee.jpg", 
+      "BUILDING_ID": "B24080000213353", 
+      "PTIN": 0, 
+      "OBJECTID": 192, 
+      "RECORDED_FLOORS": "G + 4, G + 5, G + 6, G + 2, G + 1, G, G + 3"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775907597161_114733ea-d21e-48c4-be60-9dbeec026a35.jpg", 
+      "BUILDING_ID": "B76380000213185", 
+      "PTIN": 1071313535, 
+      "OBJECTID": 193, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775889784326_e2082755-74a0-43fb-8e04-4e060a9b416e.jpg", 
+      "BUILDING_ID": "B33570000213214", 
+      "PTIN": 0, 
+      "OBJECTID": 194, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775894329158_3b6e3d1f-2465-457b-8db4-eba5da9e2148.jpg", 
+      "BUILDING_ID": "B89670000213160", 
+      "PTIN": 0, 
+      "OBJECTID": 195, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775827590995_8e3dfd06-61cf-4192-9458-eea7ae0d4e94.jpg", 
+      "BUILDING_ID": "B88220000213249", 
+      "PTIN": 1071314060, 
+      "OBJECTID": 196, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775891129151_3a5d15c2-d0ee-4243-906b-5441f352c744.jpg", 
+      "BUILDING_ID": "B34250000213236", 
+      "PTIN": 0, 
+      "OBJECTID": 197, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775905840820_67b64815-80b2-4dae-8924-bc0967284f24.jpg", 
+      "BUILDING_ID": "B88140000213191", 
+      "PTIN": 0, 
+      "OBJECTID": 198, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776081186483_6c193bba-8947-44cf-8ae3-0209d81af6ab.jpg", 
+      "BUILDING_ID": "B56460000213166", 
+      "PTIN": 0, 
+      "OBJECTID": 199, 
+      "RECORDED_FLOORS": "G, G + 1, G, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775906469854_62ff6932-cdc1-4db1-ad67-675855d50c54.jpg", 
+      "BUILDING_ID": "B41870000213177", 
+      "PTIN": 1071314045, 
+      "OBJECTID": 200, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776067456530_0ff98559-db02-4ac1-9075-ec95d0bded48.jpg", 
+      "BUILDING_ID": "B32000000213290", 
+      "PTIN": 1071310067, 
+      "OBJECTID": 201, 
+      "RECORDED_FLOORS": "G, G + 2, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775891352965_231d2f8a-02a5-4c65-87be-795853785ea6.jpg", 
+      "BUILDING_ID": "B71730000213237", 
+      "PTIN": 1071314125, 
+      "OBJECTID": 202, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776075481428_46886079-f559-4bd9-a469-15789d9f9428.jpg", 
+      "BUILDING_ID": "B23190000213315", 
+      "PTIN": 0, 
+      "OBJECTID": 203, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776072905273_7743c17f-b38b-47a9-bb09-026a54c13ece.jpg", 
+      "BUILDING_ID": "B23240000213303", 
+      "PTIN": 0, 
+      "OBJECTID": 204, 
+      "RECORDED_FLOORS": "G + 2, G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775900426843_ec046d3a-b391-441d-bad2-7c68f94b84ed.jpg", 
+      "BUILDING_ID": "B97020000213174", 
+      "PTIN": 0, 
+      "OBJECTID": 205, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775890330660_6b75ca4f-881d-4958-a9f1-26a89f79ff5d.jpg", 
+      "BUILDING_ID": "B28370000213215", 
+      "PTIN": 0, 
+      "OBJECTID": 206, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775887205258_194e9be3-a58f-4a94-9876-c5e90f7f9b8a.jpg", 
+      "BUILDING_ID": "B28580000213144", 
+      "PTIN": 1131301898, 
+      "OBJECTID": 207, 
+      "RECORDED_FLOORS": "G + 1, G + 2, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775890200256_e213be81-9750-4b0c-ae6b-bdd5053f85d3.jpg", 
+      "BUILDING_ID": "B75860000213232", 
+      "PTIN": 0, 
+      "OBJECTID": 208, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776083615777_12da39d2-f8d5-4d25-a421-274a9a30410b.jpg", 
+      "BUILDING_ID": "B99670000213269", 
+      "PTIN": 0, 
+      "OBJECTID": 209, 
+      "RECORDED_FLOORS": "G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775830959829_a39dcce5-ed23-4874-b642-2bd73129a32a.jpg", 
+      "BUILDING_ID": "B32610000213242", 
+      "PTIN": 0, 
+      "OBJECTID": 210, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776061317802_d92dc933-4afd-438b-a421-f66eccea520f.jpg", 
+      "BUILDING_ID": "B70490000213274", 
+      "PTIN": 1071314047, 
+      "OBJECTID": 211, 
+      "RECORDED_FLOORS": "G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776066435853_e374bf0a-0054-4724-8756-ba45d1688528.jpg", 
+      "BUILDING_ID": "BN14420000383294", 
+      "PTIN": 0, 
+      "OBJECTID": 212, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775887503286_920087b7-8351-467b-8045-e065c56cacd0.jpg", 
+      "BUILDING_ID": "B28430000213226", 
+      "PTIN": 0, 
+      "OBJECTID": 213, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1, G + 3"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775907865920_e0e52cb1-ff45-4037-a812-5b5518c1ee8d.jpg", 
+      "BUILDING_ID": "B38340000213184", 
+      "PTIN": 0, 
+      "OBJECTID": 214, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775910802440_971a07c1-deb3-4880-af49-2c0732feefe7.jpg", 
+      "BUILDING_ID": "B13480000213259", 
+      "PTIN": 0, 
+      "OBJECTID": 215, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776084716876_70a89d19-df7a-415c-863c-710f4177d07b.jpg", 
+      "BUILDING_ID": "B20980000213258", 
+      "PTIN": 0, 
+      "OBJECTID": 216, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775887358507_053a5414-bf63-451d-8e4f-16987d53e6a4.jpg", 
+      "BUILDING_ID": "B91590000213145", 
+      "PTIN": 1211300930, 
+      "OBJECTID": 217, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775889937029_b89b58f7-c058-4f38-b9e8-0461eba0137c.jpg", 
+      "BUILDING_ID": "B63020000213231", 
+      "PTIN": 0, 
+      "OBJECTID": 218, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775895226310_7801c968-2680-4206-aec5-f6ca5bd3f1ba.jpg", 
+      "BUILDING_ID": "B38860000213196", 
+      "PTIN": 1071313719, 
+      "OBJECTID": 219, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776076628627_ced48dda-e4ea-4b59-9b9b-df7e80b8835a.jpg", 
+      "BUILDING_ID": "B25530000213181", 
+      "PTIN": 0, 
+      "OBJECTID": 220, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775886567603_24428a63-0d65-4dc5-94c1-0bc14133336a.jpg", 
+      "BUILDING_ID": "BN73140000382569", 
+      "PTIN": 0, 
+      "OBJECTID": 221, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776066915981_12c44c0e-bc66-4440-aaeb-84fb45ddf1e1.jpg", 
+      "BUILDING_ID": "B26310000213298", 
+      "PTIN": 1071314050, 
+      "OBJECTID": 222, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775899757698_0d86d236-41b2-48d5-90c4-7184238e23cf.jpg", 
+      "BUILDING_ID": "B23980000213168", 
+      "PTIN": 0, 
+      "OBJECTID": 223, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775909437606_03ef0868-78ec-4524-93c7-8e7ab1c865f2.jpg", 
+      "BUILDING_ID": "B73590000213266", 
+      "PTIN": 1071314006, 
+      "OBJECTID": 224, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775904890731_846a585f-06b4-46dd-a1b5-af30b8caf698.jpg", 
+      "BUILDING_ID": "B30280000213252", 
+      "PTIN": 1071308868, 
+      "OBJECTID": 225, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775898256371_13ce8498-5f72-4a9a-bf09-5d6653f7222f.jpg", 
+      "BUILDING_ID": "B85560000213158", 
+      "PTIN": 0, 
+      "OBJECTID": 226, 
+      "RECORDED_FLOORS": "G + 1, G, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776062579986_46392529-bc84-4226-ad55-e508d0094aac.jpg", 
+      "BUILDING_ID": "B67490000213282", 
+      "PTIN": 0, 
+      "OBJECTID": 227, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776069075430_ab6b11e3-394e-4e90-bf3c-5e9a90d9a64b.jpg", 
+      "BUILDING_ID": "B10930000213312", 
+      "PTIN": 1131303343, 
+      "OBJECTID": 228, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776083055778_078f972b-2415-4f31-8511-e1ed901fbb7a.jpg", 
+      "BUILDING_ID": "B97400000213271", 
+      "PTIN": 0, 
+      "OBJECTID": 229, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775892400658_d0bef634-78f3-4b3a-a7c0-c27ee0ae1dec.jpg", 
+      "BUILDING_ID": "B69090000213210", 
+      "PTIN": 0, 
+      "OBJECTID": 230, 
+      "RECORDED_FLOORS": "G + 3, G, G + 1, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775902570791_efbdffa5-7575-42b8-b7d7-fade7a0d435d.jpg", 
+      "BUILDING_ID": "B83190000213153", 
+      "PTIN": 0, 
+      "OBJECTID": 231, 
+      "RECORDED_FLOORS": "G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776065904259_063d7796-8d9e-4b32-a74c-a41e12fb1b1e.jpg", 
+      "BUILDING_ID": "B27350000213295", 
+      "PTIN": 1071314426, 
+      "OBJECTID": 232, 
+      "RECORDED_FLOORS": "G, G + 2, G + 1, G + 3"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775904918501_d93e14c4-2086-4c02-a1e4-3d55702b6d18.jpg", 
+      "BUILDING_ID": "B16910000213159", 
+      "PTIN": 0, 
+      "OBJECTID": 233, 
+      "RECORDED_FLOORS": "G, G + 2, G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776084264831_815e8183-752f-401f-86d5-0fe7c7bfad1f.jpg", 
+      "BUILDING_ID": "B48390000213265", 
+      "PTIN": 1071312631, 
+      "OBJECTID": 234, 
+      "RECORDED_FLOORS": "G + 1, G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775885223929_9260a690-bca6-430e-aece-f342b548d47b.jpg", 
+      "BUILDING_ID": "B64550000213199", 
+      "PTIN": 0, 
+      "OBJECTID": 235, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776074420369_d86e867a-996a-47bd-814b-b6eff4ad1b88.jpg", 
+      "BUILDING_ID": "B61070000213346", 
+      "PTIN": 1071324904, 
+      "OBJECTID": 236, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776073946049_d52e1f4f-2196-414c-b47a-115722ad0e14.jpg", 
+      "BUILDING_ID": "B47750000213308", 
+      "PTIN": 1131300929, 
+      "OBJECTID": 237, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776068493374_674edff9-e978-4a1c-9978-9998c61f0aec.jpg", 
+      "BUILDING_ID": "B82170000213309", 
+      "PTIN": 1071314038, 
+      "OBJECTID": 238, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776072133488_24cd83ae-53e6-439e-b487-7ea654283065.jpg", 
+      "BUILDING_ID": "B20710000213302", 
+      "PTIN": 0, 
+      "OBJECTID": 239, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776079893688_3a4889f4-73d4-464d-a955-abee2ea19002.jpg", 
+      "BUILDING_ID": "B34670000213327", 
+      "PTIN": 0, 
+      "OBJECTID": 240, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775828380777_45a610d4-0e62-42d4-9d63-3ac02c71017c.jpg", 
+      "BUILDING_ID": "B58220000213247", 
+      "PTIN": 1071314058, 
+      "OBJECTID": 241, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775912821050_ccbcdb00-fac5-4542-b554-56eabf098c31.jpg", 
+      "BUILDING_ID": "B22050000213340", 
+      "PTIN": 1071325241, 
+      "OBJECTID": 242, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775912629458_6985f697-159b-45a4-a1f2-72e63e0e71ea.jpg", 
+      "BUILDING_ID": "B65590000213333", 
+      "PTIN": 1211300530, 
+      "OBJECTID": 243, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775891364224_9c761e75-7bb2-4830-b8aa-94bc3d569f34.jpg", 
+      "BUILDING_ID": "B38840000213218", 
+      "PTIN": 1071314001, 
+      "OBJECTID": 244, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775816706417_06c4c110-97ea-4d33-a58d-63b3b2accc6d.jpg", 
+      "BUILDING_ID": "B28900000213222", 
+      "PTIN": 0, 
+      "OBJECTID": 245, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776083628477_4d0c0752-67c6-489b-a6d1-ca8a94d92cfc.jpg", 
+      "BUILDING_ID": "B34490000213260", 
+      "PTIN": 1071313483, 
+      "OBJECTID": 246, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775831426731_d7c0913c-690c-4167-9976-257afd37aebd.jpg", 
+      "BUILDING_ID": "B95470000213179", 
+      "PTIN": 1131302682, 
+      "OBJECTID": 247, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775909899487_e573973a-2b37-48a1-8e9e-0f9bccbbf5cc.jpg", 
+      "BUILDING_ID": "B26100000213319", 
+      "PTIN": 1071313751, 
+      "OBJECTID": 248, 
+      "RECORDED_FLOORS": "G + 1, G, G + 2, G + 3"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775888415459_60ccaf1b-ecac-48f6-b374-49bf23a02781.jpg", 
+      "BUILDING_ID": "B43420000213230", 
+      "PTIN": 1071313760, 
+      "OBJECTID": 249, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775887610308_d33f4774-d59b-4782-a7b8-9af1dea9a020.jpg", 
+      "BUILDING_ID": "B56260000213213", 
+      "PTIN": 0, 
+      "OBJECTID": 250, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776082789726_df1831f8-aa70-4f7d-b013-3d697e9c1967.jpg", 
+      "BUILDING_ID": "B25510000213272", 
+      "PTIN": 1071322290, 
+      "OBJECTID": 251, 
+      "RECORDED_FLOORS": "G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775886794166_70e336e3-65af-4e75-81f3-46b51772eb1e.jpg", 
+      "BUILDING_ID": "B50520000213227", 
+      "PTIN": 1131302887, 
+      "OBJECTID": 252, 
+      "RECORDED_FLOORS": "G + 3, G + 2, G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775900987733_7e0f2846-cc37-4ccb-ae1d-a7f96f8ec468.jpg", 
+      "BUILDING_ID": "B76800000213169", 
+      "PTIN": 0, 
+      "OBJECTID": 253, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776074572384_a728bf5a-b014-4970-9d77-49df7621b4bb.jpg", 
+      "BUILDING_ID": "B86130000213305", 
+      "PTIN": 0, 
+      "OBJECTID": 254, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776071356780_35c1867e-a983-43f3-8d41-45123cabc2ae.jpg", 
+      "BUILDING_ID": "B52060000213348", 
+      "PTIN": 0, 
+      "OBJECTID": 255, 
+      "RECORDED_FLOORS": "G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776082223922_20023fd7-1a3d-4852-8748-ccc48bde73db.jpg", 
+      "BUILDING_ID": "B62920000213324", 
+      "PTIN": 1131302831, 
+      "OBJECTID": 256, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775828776202_ab4e3f95-8e3b-4d87-bdb0-90be0d4c7221.jpg", 
+      "BUILDING_ID": "B10330000213244", 
+      "PTIN": 0, 
+      "OBJECTID": 257, 
+      "RECORDED_FLOORS": "G, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775907399441_32db3b18-23d2-43a0-9c38-f7ab4a0f0c2c.jpg", 
+      "BUILDING_ID": "B51230000213186", 
+      "PTIN": 0, 
+      "OBJECTID": 258, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776085269487_522b66dc-6a7e-4664-b3c4-c2a9ab9f58fc.jpg", 
+      "BUILDING_ID": "B29250000213205", 
+      "PTIN": 0, 
+      "OBJECTID": 259, 
+      "RECORDED_FLOORS": "G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775886465044_1f47bef3-41c9-428e-bf06-3dcfa46da92f.jpg", 
+      "BUILDING_ID": "B69450000213228", 
+      "PTIN": 0, 
+      "OBJECTID": 260, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775888357153_e13f631a-dac7-4d4d-ab68-e69ced3cffe1.jpg", 
+      "BUILDING_ID": "B67150000213148", 
+      "PTIN": 1071310128, 
+      "OBJECTID": 261, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776077184352_fa6b0dba-daca-4882-b995-f8cfcf7452d9.jpg", 
+      "BUILDING_ID": "B15690000213336", 
+      "PTIN": 0, 
+      "OBJECTID": 262, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776081621464_50fa304f-43ae-4d77-b24b-45e79d35fc59.jpg", 
+      "BUILDING_ID": "B57590000213323", 
+      "PTIN": 1071322905, 
+      "OBJECTID": 263, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775889064173_59d37486-e639-4959-b89c-5955a4b845e4.jpg", 
+      "BUILDING_ID": "B45710000213150", 
+      "PTIN": 0, 
+      "OBJECTID": 264, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775900567476_4171b0e1-1587-498a-8033-fae22ba77a4a.jpg", 
+      "BUILDING_ID": "B97580000213240", 
+      "PTIN": 1071314027, 
+      "OBJECTID": 265, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776064625997_48365ed6-94a5-4840-a332-411746d09591.jpg", 
+      "BUILDING_ID": "B98280000213288", 
+      "PTIN": 0, 
+      "OBJECTID": 266, 
+      "RECORDED_FLOORS": "G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775831977071_c9cffd0e-f8cf-4aae-8ceb-293bdbc2f372.jpg", 
+      "BUILDING_ID": "B47200000213189", 
+      "PTIN": 0, 
+      "OBJECTID": 267, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775890346480_0aaf3856-6ed6-449e-a535-c85876c2a079.jpg", 
+      "BUILDING_ID": "B78320000213156", 
+      "PTIN": 1131300103, 
+      "OBJECTID": 268, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776063155201_479d4fc8-0c89-4a50-92d3-b6cabb64220c.jpg", 
+      "BUILDING_ID": "B56190000213300", 
+      "PTIN": 1071314033, 
+      "OBJECTID": 269, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776064996363_3feebc04-beb2-44ba-9ff4-cc7353b7022a.jpg", 
+      "BUILDING_ID": "B24520000213293", 
+      "PTIN": 0, 
+      "OBJECTID": 270, 
+      "RECORDED_FLOORS": "G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775911968876_4bc3a743-8b41-4dbc-87c1-5dac2c035848.jpg", 
+      "BUILDING_ID": "B82780000213253", 
+      "PTIN": 1071314030, 
+      "OBJECTID": 271, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775911493379_78de8403-a728-4fec-923c-c25fbd913284.jpg", 
+      "BUILDING_ID": "B20670000213328", 
+      "PTIN": 0, 
+      "OBJECTID": 272, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776065885782_0108a3d5-9b02-49e1-bf9d-fa4bcd2043ae.jpg", 
+      "BUILDING_ID": "B22800000213289", 
+      "PTIN": 1071311710, 
+      "OBJECTID": 273, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775909371767_8ca623c6-da60-4fea-9c51-dffe52b260de.jpg", 
+      "BUILDING_ID": "B86680000213316", 
+      "PTIN": 1071314429, 
+      "OBJECTID": 274, 
+      "RECORDED_FLOORS": "G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776079470349_f662ab16-03ec-4542-8b18-0d337bbc1b90.jpg", 
+      "BUILDING_ID": "B99100000213335", 
+      "PTIN": 1211300184, 
+      "OBJECTID": 275, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775910604756_fe02cc42-d80d-4bf4-b0b9-1271afcdde18.jpg", 
+      "BUILDING_ID": "B84650000213320", 
+      "PTIN": 0, 
+      "OBJECTID": 276, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775903075381_b2f81198-6630-418c-ba35-a52e16f62280.jpg", 
+      "BUILDING_ID": "B11830000213254", 
+      "PTIN": 1071314029, 
+      "OBJECTID": 277, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2, G + 3, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775913058581_19eb2449-e53d-4f08-a264-80818d6dc8c3.jpg", 
+      "BUILDING_ID": "B47990000213341", 
+      "PTIN": 0, 
+      "OBJECTID": 278, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775893070043_f505475e-f4ae-4ad0-9582-666d111a4bce.jpg", 
+      "BUILDING_ID": "B91670000213163", 
+      "PTIN": 1071314016, 
+      "OBJECTID": 279, 
+      "RECORDED_FLOORS": "G, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776077919904_627bb607-baff-4ac1-911a-6a7ce65b58fd.jpg", 
+      "BUILDING_ID": "B61040000213339", 
+      "PTIN": 0, 
+      "OBJECTID": 280, 
+      "RECORDED_FLOORS": "G + 4, G + 1, G + 3, G, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775888147580_5fed5f9a-fd61-4b62-9daf-f4ad0d1346d4.jpg", 
+      "BUILDING_ID": "B14280000213208", 
+      "PTIN": 1071314000, 
+      "OBJECTID": 281, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776080717436_d03cec8f-ade3-48b1-ab12-aee7e9650f55.jpg", 
+      "BUILDING_ID": "B16530000213325", 
+      "PTIN": 0, 
+      "OBJECTID": 282, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775890430662_d936cc25-9d93-401c-b1e1-5d00bdbda927.jpg", 
+      "BUILDING_ID": "B53050000213233", 
+      "PTIN": 1071323023, 
+      "OBJECTID": 283, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776080540311_03d560e9-5636-41db-9d13-d268ccccb0cc.jpg", 
+      "BUILDING_ID": "BN43530000383484", 
+      "PTIN": 1071314335, 
+      "OBJECTID": 284, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775912421169_25462395-f6b4-46b8-9b5e-be3990d2fc54.jpg", 
+      "BUILDING_ID": "B22310000213332", 
+      "PTIN": 1071314430, 
+      "OBJECTID": 285, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775908892071_e981bca2-dc85-490c-abd2-142bcf293bf2.jpg", 
+      "BUILDING_ID": "B70610000213261", 
+      "PTIN": 0, 
+      "OBJECTID": 286, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776067444208_7cc97676-c793-4af8-a10c-068b36b276de.jpg", 
+      "BUILDING_ID": "B50950000213296", 
+      "PTIN": 0, 
+      "OBJECTID": 287, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776062890469_b06e2d9b-799d-4b0b-af21-1bc6240306e5.jpg", 
+      "BUILDING_ID": "B93100000213299", 
+      "PTIN": 1131301807, 
+      "OBJECTID": 288, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776061162271_16d4cba9-f97a-4e59-869b-30d8b426cfa8.jpg", 
+      "BUILDING_ID": "B59720000213283", 
+      "PTIN": 0, 
+      "OBJECTID": 289, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775900061126_6471f645-9f53-4d96-906a-461d63414b16.jpg", 
+      "BUILDING_ID": "B41890000213172", 
+      "PTIN": 0, 
+      "OBJECTID": 290, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775911997000_b3b5ce76-7409-42e9-b751-0687b1d302a5.jpg", 
+      "BUILDING_ID": "B80570000213350", 
+      "PTIN": 0, 
+      "OBJECTID": 291, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776064381952_e547d2e0-0b8b-4e84-b050-e41af5f9d850.jpg", 
+      "BUILDING_ID": "B14530000213278", 
+      "PTIN": 0, 
+      "OBJECTID": 292, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775820516782_fcc8a8c2-f078-453b-be8e-0451cfbef5a5.jpg", 
+      "BUILDING_ID": "BN48400000382401", 
+      "PTIN": 1071311988, 
+      "OBJECTID": 293, 
+      "RECORDED_FLOORS": "G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775830152569_28c7fb74-1c32-4c1c-9f84-56e7d3686b64.jpg", 
+      "BUILDING_ID": "B21180000213221", 
+      "PTIN": 0, 
+      "OBJECTID": 294, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775912942708_05c468ac-0685-4388-a898-a69c5d4fdc4f.jpg", 
+      "BUILDING_ID": "B40940000213351", 
+      "PTIN": 0, 
+      "OBJECTID": 295, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775817147003_30bf9008-4bec-4313-b2df-9808123ebf35.jpg", 
+      "BUILDING_ID": "B54570000213219", 
+      "PTIN": 1131300277, 
+      "OBJECTID": 296, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775883507196_91617263-7f2b-40f8-9b86-c070a1f71c99.jpg", 
+      "BUILDING_ID": "B80280000213180", 
+      "PTIN": 1071312741, 
+      "OBJECTID": 297, 
+      "RECORDED_FLOORS": "G, G + 2, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776073629517_a521dc9f-a57e-48fd-8c4e-77f72e511b51.jpg", 
+      "BUILDING_ID": "B84340000213311", 
+      "PTIN": 0, 
+      "OBJECTID": 298, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776076164485_1441dd2c-581b-43af-9757-8b29ec9f502e.jpg", 
+      "BUILDING_ID": "BN11980000383425", 
+      "PTIN": 1071314287, 
+      "OBJECTID": 299, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775900736296_d5c8a796-f281-4c85-816b-73a9855941ed.jpg", 
+      "BUILDING_ID": "B90080000213171", 
+      "PTIN": 0, 
+      "OBJECTID": 300, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776074163629_6ff90aeb-67ea-45f2-a2fa-6a7d90a86b41.jpg", 
+      "BUILDING_ID": "B45540000213307", 
+      "PTIN": 1131301422, 
+      "OBJECTID": 301, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775897952881_edc1a3ed-62cf-4fa2-ad2b-8c3c9476d6b2.jpg", 
+      "BUILDING_ID": "B46990000213198", 
+      "PTIN": 0, 
+      "OBJECTID": 302, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775887251417_d050d6d1-73c3-47f2-b46b-7fa326eefa23.jpg", 
+      "BUILDING_ID": "B37470000213212", 
+      "PTIN": 1071314003, 
+      "OBJECTID": 303, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775896824504_5220e969-fa4c-439b-834b-f5694d57f55a.jpg", 
+      "BUILDING_ID": "B78590000213197", 
+      "PTIN": 0, 
+      "OBJECTID": 304, 
+      "RECORDED_FLOORS": "G + 3, G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775888774045_f1514299-de5e-4fe0-8792-9bccb75dc467.jpg", 
+      "BUILDING_ID": "B53270000213149", 
+      "PTIN": 0, 
+      "OBJECTID": 305, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775902278503_b9c32fbe-d18d-41da-b6ff-5b96eb0f9b3f.jpg", 
+      "BUILDING_ID": "B94620000213255", 
+      "PTIN": 0, 
+      "OBJECTID": 306, 
+      "RECORDED_FLOORS": "G + 3, G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775894091125_d6c17a11-ccbc-4eda-bcf9-1d7caef31e61.jpg", 
+      "BUILDING_ID": "B23270000213162", 
+      "PTIN": 1211300762, 
+      "OBJECTID": 307, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776078179074_8dc4b93d-f528-41c1-8dd6-916510bdf09b.jpg", 
+      "BUILDING_ID": "BN13370000383457", 
+      "PTIN": 0, 
+      "OBJECTID": 308, 
+      "RECORDED_FLOORS": "G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776063719966_fa8328a3-08a4-4f37-9576-90fd037e612e.jpg", 
+      "BUILDING_ID": "B80440000213277", 
+      "PTIN": 0, 
+      "OBJECTID": 309, 
+      "RECORDED_FLOORS": "G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775899255127_ad681ec0-4153-40f1-b5e8-133a7147e46a.jpg", 
+      "BUILDING_ID": "B87640000213167", 
+      "PTIN": 1071313988, 
+      "OBJECTID": 310, 
+      "RECORDED_FLOORS": "G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775910368664_70534f7f-2e6a-4ad4-831c-6aa03ae2d37a.jpg", 
+      "BUILDING_ID": "B72650000213322", 
+      "PTIN": 0, 
+      "OBJECTID": 311, 
+      "RECORDED_FLOORS": "G, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775909060759_dbae206f-4669-4ce9-8037-160d2174af72.jpg", 
+      "BUILDING_ID": "B81310000213263", 
+      "PTIN": 1071324294, 
+      "OBJECTID": 312, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775892876223_9473c9d2-e1d7-4de1-9304-baa5dccf2eb7.jpg", 
+      "BUILDING_ID": "B87010000213209", 
+      "PTIN": 1071325162, 
+      "OBJECTID": 313, 
+      "RECORDED_FLOORS": "G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775894263641_d5017919-d497-4130-bfee-4256a87604de.jpg", 
+      "BUILDING_ID": "B34180000213193", 
+      "PTIN": 0, 
+      "OBJECTID": 314, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776071822847_dc93562e-f841-4bd5-bb91-224223143a9d.jpg", 
+      "BUILDING_ID": "B80800000213347", 
+      "PTIN": 1071314414, 
+      "OBJECTID": 315, 
+      "RECORDED_FLOORS": "G, G, G + 1, G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775905874219_500d55ad-dc7a-45f3-94f8-e76e31e49d43.jpg", 
+      "BUILDING_ID": "B41710000213178", 
+      "PTIN": 1071313971, 
+      "OBJECTID": 316, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776078453121_b46e45f1-bfef-4c44-8d3f-f94e1a83cbab.jpg", 
+      "BUILDING_ID": "B52610000213200", 
+      "PTIN": 1071314004, 
+      "OBJECTID": 317, 
+      "RECORDED_FLOORS": "G, G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776085730731_fea65a6c-ebd6-46bb-afd2-494f1b1a9e55.jpg", 
+      "BUILDING_ID": "B11690000213204", 
+      "PTIN": 1071313935, 
+      "OBJECTID": 318, 
+      "RECORDED_FLOORS": "G + 2, G + 4, G + 3, G, G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775888070740_4d40e98c-3918-4b65-b12a-34f6e086331d.jpg", 
+      "BUILDING_ID": "B55810000213146", 
+      "PTIN": 0, 
+      "OBJECTID": 319, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776081572873_b8c11c46-696b-41e8-b6df-7ce32f3d61e4.jpg", 
+      "BUILDING_ID": "B56500000213201", 
+      "PTIN": 1131302628, 
+      "OBJECTID": 320, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775832603148_2d6426e1-2ad9-4123-93c4-2c5e32f6e1d1.jpg", 
+      "BUILDING_ID": "B34180000213190", 
+      "PTIN": 1071314056, 
+      "OBJECTID": 321, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775901860237_f1e6e6f7-448e-4437-aefa-c9d1279ab77a.jpg", 
+      "BUILDING_ID": "BN11320000382825", 
+      "PTIN": 0, 
+      "OBJECTID": 322, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776075381291_6fd606d7-fb70-4190-af62-0ed1ab19b34d.jpg", 
+      "BUILDING_ID": "B44910000213343", 
+      "PTIN": 1071314382, 
+      "OBJECTID": 323, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775909739311_0a6ca46e-5176-400d-a0c3-a3e3d0b9aa40.jpg", 
+      "BUILDING_ID": "B63410000213318", 
+      "PTIN": 1071313534, 
+      "OBJECTID": 324, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776066410357_1dd88f77-376d-40fb-a55c-ae1d2e054eaa.jpg", 
+      "BUILDING_ID": "B97950000213297", 
+      "PTIN": 1071314049, 
+      "OBJECTID": 325, 
+      "RECORDED_FLOORS": "G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776083817389_b6ab85d1-ea2b-45d5-a89b-a06c54b5c5c1.jpg", 
+      "BUILDING_ID": "B95720000213268", 
+      "PTIN": 1131300130, 
+      "OBJECTID": 326, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775890676739_0fdfe728-e6ad-42ef-8e11-cbd278dd2dac.jpg", 
+      "BUILDING_ID": "B50180000213234", 
+      "PTIN": 1071314023, 
+      "OBJECTID": 327, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775908156262_6e881468-0d80-4306-8ec5-92a0faf7352e.jpg", 
+      "BUILDING_ID": "B58120000213207", 
+      "PTIN": 1211300786, 
+      "OBJECTID": 328, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2, G + 3"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776060497473_0e52e20f-ab93-4ed8-a75f-11f903415ea4.jpg", 
+      "BUILDING_ID": "B83470000213275", 
+      "PTIN": 0, 
+      "OBJECTID": 329, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776060778078_22b6b77f-1d22-4586-9dcd-054bdcdf844b.jpg", 
+      "BUILDING_ID": "B83060000213279", 
+      "PTIN": 0, 
+      "OBJECTID": 330, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775910310760_c892801e-9baa-4c9c-b731-a68bfbe1ce9a.jpg", 
+      "BUILDING_ID": "B59440000213270", 
+      "PTIN": 1071314431, 
+      "OBJECTID": 331, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775901250185_d97be2d9-3468-4728-8249-ee072644d335.jpg", 
+      "BUILDING_ID": "B50930000213170", 
+      "PTIN": 0, 
+      "OBJECTID": 332, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775830395966_9c32d153-94a2-4278-8a0b-ba2fc6f680ce.jpg", 
+      "BUILDING_ID": "B23950000213220", 
+      "PTIN": 0, 
+      "OBJECTID": 333, 
+      "RECORDED_FLOORS": "G + 2, G + 1, G, G + 3"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775906807899_89d8335d-28ff-4fff-8a57-aa3ffc96f172.jpg", 
+      "BUILDING_ID": "B11900000213187", 
+      "PTIN": 1071313536, 
+      "OBJECTID": 334, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775898485970_11bf40f1-4c98-4d11-a2a6-9179e7f80b3f.jpg", 
+      "BUILDING_ID": "B59120000213239", 
+      "PTIN": 1071314028, 
+      "OBJECTID": 335, 
+      "RECORDED_FLOORS": "G, G + 3, G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775901655014_34046f9d-a756-4549-b060-1af75cf8d2e6.jpg", 
+      "BUILDING_ID": "B12120000213256", 
+      "PTIN": 1071314025, 
+      "OBJECTID": 336, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775827162683_ce0dab3a-5681-4c53-b874-1fb7f67df93e.jpg", 
+      "BUILDING_ID": "B88510000213250", 
+      "PTIN": 0, 
+      "OBJECTID": 337, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776082552534_314e2415-3469-4cb1-a9ce-bd2490675d7f.jpg", 
+      "BUILDING_ID": "B17590000213202", 
+      "PTIN": 0, 
+      "OBJECTID": 338, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775898012852_8522720a-a5ee-4db1-b612-b7495d838b50.jpg", 
+      "BUILDING_ID": "B42680000213238", 
+      "PTIN": 0, 
+      "OBJECTID": 339, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775912971933_1ff74436-9a30-451b-8484-4f47a46330d9.jpg", 
+      "BUILDING_ID": "B95560000213273", 
+      "PTIN": 0, 
+      "OBJECTID": 340, 
+      "RECORDED_FLOORS": "G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776062462755_5cce34ea-9515-4fe0-88ed-70a1dab73e77.jpg", 
+      "BUILDING_ID": "B30520000213286", 
+      "PTIN": 1071324672, 
+      "OBJECTID": 341, 
+      "RECORDED_FLOORS": "G + 3, G + 2, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775891024324_6289b066-12eb-435c-a995-ee85d3abf495.jpg", 
+      "BUILDING_ID": "B50400000213165", 
+      "PTIN": 0, 
+      "OBJECTID": 342, 
+      "RECORDED_FLOORS": "G, G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775893096748_96182e38-5290-4bdf-a4bd-bfe152edbbf9.jpg", 
+      "BUILDING_ID": "B42850000213164", 
+      "PTIN": 1071314018, 
+      "OBJECTID": 343, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776071900581_5327ff6f-a2bc-4380-8043-2676750d8636.jpg", 
+      "BUILDING_ID": "B83690000213301", 
+      "PTIN": 1071314034, 
+      "OBJECTID": 344, 
+      "RECORDED_FLOORS": "G, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776072831623_23071f26-413a-4846-8070-377a0ca0367a.jpg", 
+      "BUILDING_ID": "BN87210000383376", 
+      "PTIN": 1211300784, 
+      "OBJECTID": 345, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775884187092_18a5d5ad-f422-450b-8569-27582443f3e1.jpg", 
+      "BUILDING_ID": "B43910000213248", 
+      "PTIN": 1071314059, 
+      "OBJECTID": 346, 
+      "RECORDED_FLOORS": "G, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776072593468_1fc9f558-22b1-41b2-af30-b35f33180ea5.jpg", 
+      "BUILDING_ID": "B18570000213352", 
+      "PTIN": 1211300597, 
+      "OBJECTID": 347, 
+      "RECORDED_FLOORS": "G + 1, G, G + 3, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775901001114_b3a414d6-f278-4f7a-ac26-02fd76c363e7.jpg", 
+      "BUILDING_ID": "B98990000213241", 
+      "PTIN": 0, 
+      "OBJECTID": 348, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776073723077_d01ca583-1b1c-419d-b5d7-f4aa12f7feec.jpg", 
+      "BUILDING_ID": "B56160000213304", 
+      "PTIN": 0, 
+      "OBJECTID": 349, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776076536309_c4aa1b9a-1689-4e5a-aa54-10e497ba58ea.jpg", 
+      "BUILDING_ID": "B45280000213354", 
+      "PTIN": 1071314042, 
+      "OBJECTID": 350, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775825992999_e2e16b67-b878-4d9e-8a9b-8e7b240195fa.jpg", 
+      "BUILDING_ID": "B94910000213251", 
+      "PTIN": 1071314410, 
+      "OBJECTID": 351, 
+      "RECORDED_FLOORS": "G + 2, G, G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775906960711_d6fbb553-4988-4cec-8630-9b31a14bddd7.jpg", 
+      "BUILDING_ID": "B73700000213176", 
+      "PTIN": 0, 
+      "OBJECTID": 352, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776062023923_ecd23da3-27f4-4086-b766-e00a4494f838.jpg", 
+      "BUILDING_ID": "B70270000213287", 
+      "PTIN": 1071314051, 
+      "OBJECTID": 353, 
+      "RECORDED_FLOORS": "G, G + 2, G + 2, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776075822234_bbd206a2-39a4-4a59-904b-bdefc891f5f1.jpg", 
+      "BUILDING_ID": "B82180000213342", 
+      "PTIN": 1071314322, 
+      "OBJECTID": 354, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775907517250_ca3fc5f1-3a9c-4552-80f9-442de35c0811.jpg", 
+      "BUILDING_ID": "B44640000213175", 
+      "PTIN": 0, 
+      "OBJECTID": 355, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775832405022_6a609d54-0c55-4fcc-8cce-20d3fc44dd0c.jpg", 
+      "BUILDING_ID": "B99130000213192", 
+      "PTIN": 0, 
+      "OBJECTID": 356, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776085320104_a793afba-a7a4-48d4-a24c-e5aa0365d3df.jpg", 
+      "BUILDING_ID": "B23000000213264", 
+      "PTIN": 0, 
+      "OBJECTID": 357, 
+      "RECORDED_FLOORS": "G + 1, G, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775813790632_b6946835-1c7b-4633-ad42-b818b670528a.jpg", 
+      "BUILDING_ID": "B97060000213223", 
+      "PTIN": 0, 
+      "OBJECTID": 358, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776062920592_220411b7-aa96-4ba0-ba8a-b2a56c96f9e9.jpg", 
+      "BUILDING_ID": "B31100000213285", 
+      "PTIN": 1071313945, 
+      "OBJECTID": 359, 
+      "RECORDED_FLOORS": "G + 3, G + 1, G, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776075015539_a8151071-183f-46d4-a24b-c059b93bd2f7.jpg", 
+      "BUILDING_ID": "B99010000213345", 
+      "PTIN": 1071322228, 
+      "OBJECTID": 360, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775886005820_2dc647ef-aefe-4bf6-9be2-c1458d7ec979.jpg", 
+      "BUILDING_ID": "B50000000213229", 
+      "PTIN": 0, 
+      "OBJECTID": 361, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776065591034_1940b4f1-f2a8-4911-b7db-2b8e03a6c48b.jpg", 
+      "BUILDING_ID": "B75570000213294", 
+      "PTIN": 0, 
+      "OBJECTID": 362, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775885416239_2c4b58e4-8cb1-4316-9b93-cdd8aa06a978.jpg", 
+      "BUILDING_ID": "B33210000213157", 
+      "PTIN": 1071314017, 
+      "OBJECTID": 363, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775829801188_914ec800-0df1-4bee-b5d0-624944af410d.jpg", 
+      "BUILDING_ID": "B73050000213243", 
+      "PTIN": 0, 
+      "OBJECTID": 364, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776060828883_65b09ad6-2e5a-4004-b130-104484193912.jpg", 
+      "BUILDING_ID": "B12650000213292", 
+      "PTIN": 1071314048, 
+      "OBJECTID": 365, 
+      "RECORDED_FLOORS": "G, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775890845730_c850d324-4d09-496a-beb2-fe4951060ddb.jpg", 
+      "BUILDING_ID": "B23560000213216", 
+      "PTIN": 0, 
+      "OBJECTID": 366, 
+      "RECORDED_FLOORS": "G, G + 2, G + 1"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775901398769_92b64350-5417-4306-933e-820e2f6c2825.jpg", 
+      "BUILDING_ID": "B20730000213155", 
+      "PTIN": 1071313906, 
+      "OBJECTID": 367, 
+      "RECORDED_FLOORS": "G + 1, G + 3, G + 2, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775890921112_42200c9a-ae35-496b-ad00-1d27d6bcaa33.jpg", 
+      "BUILDING_ID": "B87530000213235", 
+      "PTIN": 1071314024, 
+      "OBJECTID": 368, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775892023376_45c7a7b2-ce37-4800-b338-113d5ee30727.jpg", 
+      "BUILDING_ID": "B85760000213211", 
+      "PTIN": 0, 
+      "OBJECTID": 369, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776072176274_76466db1-4e67-4058-853e-65186cc16db3.jpg", 
+      "BUILDING_ID": "B28010000213310", 
+      "PTIN": 1071314037, 
+      "OBJECTID": 370, 
+      "RECORDED_FLOORS": "G + 4, G + 2, G + 1, G + 3, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775903285660_48e46ff5-7f2f-4189-b837-14d16f4557b2.jpg", 
+      "BUILDING_ID": "B55100000213142", 
+      "PTIN": 0, 
+      "OBJECTID": 371, 
+      "RECORDED_FLOORS": "G, G + 1, G + 2, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775889562972_195bb9a8-eb93-45d4-89ba-ed75c4286458.jpg", 
+      "BUILDING_ID": "B96150000213151", 
+      "PTIN": 0, 
+      "OBJECTID": 372, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775908296162_b6883a02-4e20-47c3-ae43-5e69552f7954.jpg", 
+      "BUILDING_ID": "B74310000213173", 
+      "PTIN": 0, 
+      "OBJECTID": 373, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775911004768_10a9942d-62fb-4cdd-ae8d-238caf84cdf5.jpg", 
+      "BUILDING_ID": "B73950000213349", 
+      "PTIN": 0, 
+      "OBJECTID": 374, 
+      "RECORDED_FLOORS": "G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1776081074313_49f6974c-387c-4c7c-9238-ac4e309307a6.jpg", 
+      "BUILDING_ID": "B49200000213203", 
+      "PTIN": 0, 
+      "OBJECTID": 375, 
+      "RECORDED_FLOORS": "G + 1, G"
+    }, 
+    {
+      "PLOT_PICTURE_URL": "https://ptms.neogeoinfo.in:5025/api/v1/file/download?s3Key=ghmc/1775885650483_04cb30f6-29d0-4b50-8cd2-da2107ff2b6b.jpg", 
+      "BUILDING_ID": "B90420000213143", 
+      "PTIN": 1071324177, 
+      "OBJECTID": 376, 
+      "RECORDED_FLOORS": "G, G"
+    }
+  ], 
+  "source_gdb": "D:\\shashi_deloitte\\BHARAT NAGAR\\BHARAT NAGAR.gdb", 
+  "image_field": "Plot_Picture"
+}
